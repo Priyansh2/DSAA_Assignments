@@ -1,2 +1,2 @@
-# DSAA_Assignments
+# DSAA Assignments
 Repository containing Digital Signal Analysis and Application [DSAA, a course of mine] assignments. 
